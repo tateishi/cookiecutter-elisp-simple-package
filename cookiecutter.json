@@ -1,0 +1,12 @@
+{
+    "full_name": "TATEISHI Tadatoshi",
+    "email": "ishio39@gmail.com",
+    "github_username": "tateishi",
+    "project_name": "elisp simple package project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "{{ cookiecutter.project_name }} contains a simple package.",
+    "version": "0.0.1-pre",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"],
+    "keywords": "",
+    "url": ""
+}
