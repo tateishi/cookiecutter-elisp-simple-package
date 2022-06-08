@@ -1,4 +1,4 @@
-;;; {{cookiecutter.project_slug}}.el --- {{cookiecutter.project_short_description}}
+;;; {{cookiecutter.project_slug}}.el --- {{cookiecutter.project_short_description}} -*- lexical-binding -*-
 
 ;; Copyright (C) {% now 'local', '%Y' %} {{cookiecutter.full_name}}
 
@@ -11,3 +11,9 @@
 
 
 ;;; Commentary:
+
+
+;;; Code:
+
+
+;;; {{cookiecutter.project_slug}}.el ends here
